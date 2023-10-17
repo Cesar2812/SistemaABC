@@ -1,0 +1,57 @@
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\Sistema ABC.exe.config
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\Sistema ABC.exe
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\Sistema ABC.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\CapaDatos.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\CapaEntidad.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\CapaNegocio.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\CapaDatos.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\CapaDatos.dll.config
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\CapaEntidad.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\CapaNegocio.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema ABC.csproj.AssemblyReference.cache
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Properties.Resources.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Vistas.Login.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Vistas.MDIMenu.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema ABC.csproj.GenerateResource.cache
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema ABC.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema ABC.csproj.CopyComplete
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema ABC.exe
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema ABC.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Vistas.RegistroUser.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Vistas.IngresoDeProductos.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\ClosedXML.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\Irony.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.Buffers.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.IO.Packaging.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.Memory.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\XLParser.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\ClosedXML.xml
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.Buffers.xml
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.IO.Packaging.xml
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.Memory.xml
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Vistas.Proveedores.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Vistas.Compras.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Vistas.DatosNegocio.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.FormulariosModales.modalProv.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.FormulariosModales.modalProd.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Vistas.frmDetalleCompra.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\itextsharp.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\itextsharp.xml
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Vistas.frmAbc.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema_ABC.Vistas.frmReportesCompras.resources
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\obj\Debug\Sistema ABC.csproj.ResolveComReference.cache
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\SpreadsheetLight.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\System.Drawing.Common.dll
+C:\Users\Cesar Cerda\Desktop\Sistema ABC\Sistema ABC\Sistema ABC\bin\Debug\SpreadsheetLight.xml
